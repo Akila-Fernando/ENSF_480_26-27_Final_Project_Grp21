@@ -1,5 +1,5 @@
 # ENSF_480_26-27_Final_Project_Grp21
-ENSF 480 Final Project - 2026-2027 
+ENSF 480 Final Project - FALL 2026
 
 Made Using Java, JavaFX and Java Swing
 
